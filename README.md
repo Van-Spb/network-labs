@@ -3,3 +3,4 @@
  - [Настроить OSPF для Underlay сети](lab2/)
  - [Настроить IS-IS для Underlay сети](lab3/)
  - [Настроить BGP для Underlay сети](lab4/)
+ - [VxLAN. L2 VNI](lab5/)
