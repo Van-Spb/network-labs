@@ -4,3 +4,4 @@
  - [Настроить IS-IS для Underlay сети](lab3/)
  - [Настроить BGP для Underlay сети](lab4/)
  - [VxLAN. L2 VNI](lab5/)
+ - [VxLAN. L3 VNI](lab6/)
